@@ -2,7 +2,7 @@
 
 Projeto gerenciamento de usuários com RESTfull API.
 
-Projeto desenvolvido em Javascript com Node.Js no lado do servidor.
+Projeto desenvolvido em Javascript, com Node.Js do lado do servidor.
 
 # Ferramentas e Habilidades Para o Desenvolvimento:
 
